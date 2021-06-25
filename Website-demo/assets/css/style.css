@@ -1746,7 +1746,6 @@ p {
 
 #sidebar .sidebar-header {
   padding: 20px;
-  background: #000b5c;
   color: #fff;
 }
 .sidebar-header h3 {
@@ -1770,8 +1769,8 @@ p {
 }
 
 #sidebar ul li a:hover {
-  color: #000c66;
-  background: #fff;
+  color: #fff;
+  background: #000c66;
 }
 
 #sidebar ul li.active > a,
